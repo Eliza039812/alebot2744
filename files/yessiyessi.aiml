@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+	    <pattern>YessiYessi</pattern>
+	    <template>
+	        <random>
+	            <li>Â¿Si?</li>
+	            <li>Dime</li>
+	            <li>Â¿QuÃ© quieres saber?</li>
+	        </random>
+	    </template>
+	</category>
+	<category>
+	    <pattern>Yessi Yessi</pattern>
+	    <template>
+	        <random>
+	            <li>Â¿Si?</li>
+	            <li>Dime</li>
+	            <li>Â¿QuÃ© quieres saber?</li>
+	        </random>
+	    </template>
+	</category>
+	<category>
+	    <pattern>YESSIYESSI</pattern>
+	    <template>
+	        <random>
+	            <li>Â¿Si?</li>
+	            <li>Dime</li>
+	            <li>Â¿QuÃ© quieres saber?</li>
+	        </random>
+	    </template>
+	</category>
+	<category>
+	    <pattern>YESSI YESSI</pattern>
+	    <template>
+	        <random>
+	            <li>Â¿Si?</li>
+	            <li>Dime</li>
+	            <li>Â¿QuÃ© quieres saber?</li>
+	        </random>
+	    </template>
+	</category>
+	<category>
+	    <pattern>YESSI</pattern>
+	    <template>
+	        <random>
+	            <li>Â¿Si?</li>
+	            <li>Dime</li>
+	            <li>Â¿QuÃ© quieres saber?</li>
+	        </random>
+	    </template>
+	</category>
+	<category>
+	    <pattern>Yessi</pattern>
+	    <template>
+	        <random>
+	            <li>Â¿Si?</li>
+	            <li>Dime</li>
+	            <li>Â¿QuÃ© quieres saber?</li>
+	        </random>
+	    </template>
+	</category>
+</aiml>

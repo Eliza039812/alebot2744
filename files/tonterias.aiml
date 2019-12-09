@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+<category>
+    <pattern>porque</pattern>
+    <template>que te impora</template>
+</category>
+<category>
+    <pattern>de donde eres</pattern>
+    <template>de tangamandapio, un pueblito de michoacan</template>
+</category>
+<category>
+    <pattern>porque ella no me ama</pattern>
+    <template>por que eres feo</template>
+</category>
+<category>
+    <pattern>cuentame una historia triste</pattern>
+    <template>la historia del perseve feo, que era tan feo tan feo que muriÃ³</template>
+</category>
+<category>
+    <pattern>EstÃ¡n listo chicos</pattern>
+    <template>si capitÃ¡n, estamos listos</template>
+</category>
+<category>
+    <pattern>No los escucho</pattern>
+    <template>Si capitÃ¡n estamos listos</template>
+</category>
+<category>
+    <pattern>uuuuuuuuuuuuuh
+
+Vive en una piÃ±a debajo del mar</pattern>
+    <template>Bob Esponjaaaaaa</template>
+</category>
+<category>
+    <pattern>se entrena con la idea de a cronos derrotar</pattern>
+    <template>zeus!!</template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+<category>
+    <pattern></pattern>
+    <template></template>
+</category>
+</aiml>

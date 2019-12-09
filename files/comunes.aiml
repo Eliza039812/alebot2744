@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<!-- insert your AIML categories here -->
+	<category>
+<pattern>hola</pattern>
+<template>
+<random>
+<li>hola que tal</li>
+<li>hola bebe</li>
+<li>hola</li>
+<li>como estas?</li>
+</random>
+</template>
+</category>
+<category>
+<pattern>QUE ONDA</pattern>
+<template><srai>HOLA</srai></template>
+</category>
+	<category>
+<pattern>bien</pattern>
+<template>
+<random>
+<li>que bueno</li>
+<li>yo tambien</li>
+</random>
+</template>
+</category>
+</aiml>

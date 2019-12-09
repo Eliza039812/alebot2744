@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+	<category>
+	    <pattern>Me llamo *</pattern>
+	    <template>Mucho gusto <set name="nombre"></set></template>
+    </category>
+    
+    <category>
+	    <pattern>Mi nombre es *</pattern>
+	    <template>Mucho gusto <set name="nombre"></set></template>
+    </category>
+    
+    <category>
+        <pattern>Como me llamo</pattern>
+        <template>Me dijiste que tu nombre es <get name="nombre"></get></template>
+    </category>
+    
+    <category>
+        <pattern>Cual es mi nombre</pattern>
+        <template>Me dijiste que tu nombre es <get name="nombre"></get></template>
+    </category>
+  <category>
+        <pattern>Tengo * aÃ±os</pattern>
+        <template>Ooo ya eres mayor ya tienes <get name="edad"></get></template>
+    </category>
+    <category>
+        <pattern>Cual es mi edad</pattern>
+        <template>Me dijiste que tu edad es <get name="edad"></get></template>
+    </category>
+    <category>
+        <pattern>Â¿CuÃ¡l es mi edad?</pattern>
+        <template>Me dijiste que tu edad es <get name="edad"></get></template>
+    </category>
+    <category>
+        <pattern>Que edad tengo</pattern>
+        <template>Me dijiste que tu edad es <get name="edad"></get></template>
+    </category>
+    <category>
+        <pattern>Â¿QuÃ© edad tengo?</pattern>
+        <template>Me dijiste que tu edad es <get name="edad"></get></template>
+    </category>
+</aiml>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    <category>
+        <pattern>*</pattern>
+        <template>
+            <li>PerdÃ³n, no te he entendido</li>
+            <li>Â¿PodrÃ­as decirlo de diferente manera</li>
+            <li>Suena interesante, pero no comprendo del todo</li>
+            <li>No comprendo a que te refieres</li>
+          
+        </template>
+    </category>
+    <category>
+        <pattern>Eres *</pattern>
+        <template>
+            <li>Â¿QuÃ© te hace pensar que lo soy?</li>
+            <li>Â¿Por quÃ© piensas eso?</li>
+        </template>
+    </category>
+   
+    <category>
+        <pattern>Estoy *</pattern>
+        <template>
+            <li>Oooo que interesante</li>
+            <li>Interesante</li>
+        </template>
+    </category>
+    
+</aiml>
